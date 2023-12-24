@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @presenceai
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning datas nature
-- 💞️ I’m looking to collaborate on data science project
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me hrudayp@yandex.com
 
 <!---
